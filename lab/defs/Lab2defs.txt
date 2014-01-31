@@ -1,0 +1,13 @@
+Python:
+
+Operatør i Python: man kan få enkle svar ved å bruke uttrykket 4+5 er lik 9.
+
+forskjellige operatører man kan bruke i Python er : Aritmetiske operatører,
+sammenligning, logiske operatører osv. +, - , *, /, %, **, // er de aritmetiske operatørene.
+
+Ones’ complement -
+av et binært tall er definert som den verdien man oppnår når man inverterer alle bits i den binære representasjonen av tallet.
+Og oppfører seg som negativet av det originale tallet i noen aritmetiske operasjoner.
+
+Two´s complement er en matematisk operasjon på binære tall.
+
