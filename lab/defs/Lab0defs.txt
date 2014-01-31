@@ -1,0 +1,26 @@
+Forspill: installasjon av Cent OS
+
+ISO-fil:
+     En kopi av en cd/dvd samlet i en fil, også kalt plateavbildning og iso-image.
+
+Distrubisjon:
+     Et fullstendig operativsystem med nødvendig programvare for at systemet skal oppfylle oppgavene de skal gjøre.
+
+Formatere:
+     En prosess som forbereder en disk for å lagre filer, først fjernes eventuelle filer for å så generere et nytt filstystem som gjør disken lesbar av operativsystemet.
+
+Partisjonere:
+     Deler en disk i flere deler ved å anngi grenser, mest vanlig å utføre på harddisker.
+
+Virtuell maskin:
+     Programvare som gjør det mulig for en bruker å kjøre et operativsystem inni et annet operativsystem.
+
+Verts- og gjeste OS:
+     Ved bruk av virtuell maskin defineres maskinens opprinnelige OS som vertsOS og operativsystemet som kjøres på toppen som gjesteOS.
+
+Type 1 hypervisor:
+     Programvare, frimware eller hardware som lager og kjører virtuelle maskiner, også kalt virtual machine monitor (VMM).
+
+GNU/ Linux:
+     Målet med GNU var å utvikle et fullstendig operativsystem som en variasjon til Unix. Linux-kjernen ble tilpasset til å fungere med GNU slik at de tilsammen utgjorde et fullstendig OS.
+
