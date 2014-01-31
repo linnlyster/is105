@@ -1,0 +1,14 @@
+terminal kommandoer:
+
+
+mkdir - oppretter en ny mappe.
+● cd - gjør at du kan gå inn i en annen mappe
+● ls - lister opp filer
+● ls l - ­langt format
+● ls la -
+● pwd - viser hvilken mappe du er i.
+● forklar “pipes and redirection”
+● grep - brukes for å søke i tekst.
+● cat - viser tekstfiler.
+● less - gjør at man kan søke fremover eller bakover i mapper/filer.
+
