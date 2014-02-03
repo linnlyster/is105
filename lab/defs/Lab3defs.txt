@@ -1,0 +1,15 @@
+Definisjoner:
+
+Regulære uttrykk - regulære uttrykk er en streng som beskriver et sett av strenger,
+det er et slags mønster som følger gitte syntaksregler. 
+Det brukes for eksempel i tekstbehandlere for å søke etter,
+og manipulere tekst basert på gitte mønstre.
+
+Skriptspråk - er en type programmeringsspråk som tolkes og utføres av separate programmer. Et skript er en fil som inneholder kommandoer i et skriptspråk.
+
+Perl - er et programmeringsspråk som ble laget med den hensikt å være et praktisk språk for å hente ut informasjon fra tekstfiler, for så å nyttegjøre seg av denne informasjonen.
+
+Bash - er en kommandotolk som er en del av GNU-prosjektet. 
+Det er basert på fri programvare. 
+Bashscriptet begynner med linjen #!/Bin/bash. 
+Bash ble utgitt i 1989 og har vært standard kommandotolk for GNU og standard «shell» på Linux og Mac OS X.
