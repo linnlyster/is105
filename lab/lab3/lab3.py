@@ -82,7 +82,8 @@ def min_sys_info():
 #    Anta at inn-data er korrekt (ingen testing nødvendig)
 #
 def initialer(navn):
-	return 2
+var = re.findall("[A-Z]", navn)
+return var
 
 #
 #  Oppgave 4
