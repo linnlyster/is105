@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+for a in ['1', '2', 'c']:
+    for b in ['a', 'b', '3']:
+        print a, b
