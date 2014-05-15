@@ -10,8 +10,8 @@
 
 
 # Skriv inn fullt navn på gruppemedlemene (erstatte '-' med navn slikt 'Kari Trå')
-gruppe = {  'student1': 'Ingvild', \
-			'student2': 'Linn', \
+gruppe = {  'student1': 'Ingvild L. Røkke', \
+			'student2': 'Linn Lyster', \
             'student3': '-', \
 }
 import random
