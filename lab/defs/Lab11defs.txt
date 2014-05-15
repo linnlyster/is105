@@ -1,0 +1,13 @@
+Hvordan et pokerprogram foregår:
+
+# Spilleren melder seg inn i det spillet han/hun ønsker.
+ # Serveren informerer spillerne om hvor mange som spiller, og hvor mange som kan være med i spillet.
+ # Kortene blir delt ut.
+ # Spillerne ser kortene og spilleren til venstre for dealeren starter.
+ # Alle spillerne kan velge mellom bet, check, raise, call, eller fold når det er hans/hennes tur 
+ # Raise, call og bet blir lagt til i den totale potten som de gjenstående spillerne som ikke har folda har mulighet til å vinne den runden.
+ # Spillernes kort vises, men ikke de som har folda.
+ # Spilleren med de beste kortene vinner hele potten, med mindre det feks blir uavgjort, for da blir potten splittet.
+ # Hvis en spiller går all in tidlig i spillet, og andre spillere fortsetter spillet etter at den ene spilleren er all in,
+   så har all in spilleren bare mulighet til å vinne den delen av potten som han/hun er med på.
+ # Etter at runden er over, så roteres big og small blind mot venstre, og kortene blir delt ut på nytt igjen.  
