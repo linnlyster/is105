@@ -76,25 +76,25 @@ def hand_rank(hand):
 		JC TC 9C 8C 7C => (8, 11) Straight Flush (8) Jack (11) High
 		AS AH AC AD QH => (7, 14, 12) Four Aces (7, 14)  and a Queen kicker (12)
 	"""
-	ranks = card_ranks(hand)
+     ranks = card_ranks(hand)
      if straight(ranks) and flush(hand):
-        return (8, max(ranks)) # 2 3 4 5 6 => (8, 6)
-    elif kind  (4, ranks):
-              return (7, kind(4, ranks), kind(1, ranks)) # 9 9 9 9 3 (7, 9, 3)
-    elif kind(3, ranks) and kind(2, ranks):
-              return (6, kind(3, ranks), kind(2,ranks))
-    elif flush(hand):
-            return (5, flush(hand))
-    elif straight(ranks):
-              return (4, straight(ranks))
-    elif kind(3, ranks):
-              return (3, kind(3, ranks), kind(1, ranks), kind(1, ranks))
-    elif kind (2, ranks):
-              return (2, kind(2, ranks), kind(2, ranks), kind(1, ranks))
-    elif kind (2, ranks):
-              return (1, kind(2, ranks), kind(1, ranks), kind(1, ranks), kind(1, ranks))
-    else:
-             return hand
+                return (8, max(ranks)) # 2 3 4 5 6 => (8, 6)
+     elif kind  (4, ranks):
+                return (7, kind(4, ranks), kind(1, ranks)) # 9 9 9 9 3 (7, 9, 3)
+     elif kind(3, ranks) and kind(2, ranks):
+                return (6, kind(3, ranks), kind(2,ranks))
+     elif flush(hand):
+                return (5, flush(hand))
+     elif straight(ranks):
+                return (4, straight(ranks))
+     elif kind(3, ranks):
+                return (3, kind(3, ranks), kind(1, ranks), kind(1, ranks))
+     elif kind (2, ranks):
+                return (2, kind(2, ranks), kind(2, ranks), kind(1, ranks))
+     elif kind (2, ranks):
+                return (1, kind(2, ranks), kind(1, ranks), kind(1, ranks), kind(1, ranks))
+     else:
+                return hand
 	
 # Funksjonene card_ranks(hand) returnerer en ORDNET (sorted) tuple av verdier (ranks)
 # Verdier for J, Q, K og A er tilsvarende 11, 12, 13, 14. 
